@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# First-Github-repo.
+# This is my First-Github-repo.
 Adding Some Changes from local Repo.
 =======
 # CC-CLUB-MNNIT-Website
